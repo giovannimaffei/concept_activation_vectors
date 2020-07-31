@@ -2,17 +2,20 @@
 
 Simple implementation of the explainability method presented in "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)", Been Kim et al., 2017
 
+https://arxiv.org/abs/1711.11279
+
+
 ### overview
 
 
 ### requirements
 
-numpy==1.15.3
-tensorflow==1.10.0
-Keras==2.2.2
-scikit-image==0.14.1
-scikit-learn==0.20.0
-matplotlib==3.0.0
+numpy==1.15.3  
+tensorflow==1.10.0  
+Keras==2.2.2  
+scikit-image==0.14.1  
+scikit-learn==0.20.0  
+matplotlib==3.0.0  
 
 
 ### data
